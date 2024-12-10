@@ -10,6 +10,8 @@ This project models the regulatory network involving transcription factors, subs
 - Dynamic Visualization: Generates time-evolution plots for various network components.
 - Parameter Justification: Includes references for the choice of biological constants and initial conditions.
 
+---
+
 ## **System Components**
 The modeled network includes the following:
 
@@ -19,8 +21,12 @@ The modeled network includes the following:
 - M: Metabolite (L-asparagine)
 - S: Substrate (Aspartate)
 
+---
+
 ## **Parameter Details**
 Parameter	Description	Value	Unit
+
+---
 
 ## **Simulation Details**
 The model simulates the following processes:
@@ -32,6 +38,8 @@ The model simulates the following processes:
 
 The system reaches equilibrium states over time, with insights into metabolite accumulation and transcription factor dynamics.
 
+---
+
 ## **Output**
 The script generates plots showing the concentration of system components over time, such as:
 
@@ -41,6 +49,10 @@ The script generates plots showing the concentration of system components over t
 - Metabolite
 - Substrate
 
+---
+
 ## **References**
 - Petibon, Cyrielle, et al. "AsnC: an autogenously regulated activator of asparagine synthetase A transcription in Escherichia coli."
 - Relevant articles from PubMed and RegulonDB (see documentation for detailed links).
+
+---
