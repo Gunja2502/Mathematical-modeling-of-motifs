@@ -14,6 +14,8 @@ This repository contains documentation and simulation code for two major biologi
 📄 **File:** `Documentation_Asparagine_Pathway.pdf`
 
 ### Description
+ 
+<img src="https://github.com/user-attachments/assets/71342d17-488e-495c-9729-c965378913ad" alt="SCC2" width="10%">
 
 This document explains the asparagine biosynthetic pathway in *E. coli*, focusing on the regulatory role of AsnC and the enzyme asparaginase.
 
@@ -36,6 +38,8 @@ This document explains the asparagine biosynthetic pathway in *E. coli*, focusin
 📄 **File:** `Simulations_of_a_two-component_system_(E_coli).pdf`
 
 ### Description
+
+<img src="https://github.com/user-attachments/assets/a5df7905-af0b-459b-b75e-ba433eed7235" alt="PhoPQ network" width="40%">
 
 This document contains Python code for simulating the PhoQ/PhoP two-component system in *E. coli*. This system is crucial for bacterial adaptation to changes in environmental Mg²⁺ levels.
 
